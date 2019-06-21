@@ -1,6 +1,10 @@
 # Kreezalid REST API v1 Documentation
 
-**Api endpoint**: `/api/v1/`
+**Api endpoint**: 
+
+If you have a custom domain: `https://your-domain.com/api/v1/`
+
+If you don't have a custom domain: `https://your-subdomain.mykreezalid.com/api/v1/`
 
 Adding the version number in the URL ensures smooth transition to future version (i.e being able to offer multiple API endpoints simultaneously).
 
